@@ -35,9 +35,9 @@
 <br clear="both"/>
 
 ## Statistics
-<div width="100%">
-  <img alt="Aiden's GitHub Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=isyouhyeong&show_icons=true&theme=holi" width="49%" height="130%"/>
-  <img alt="Aiden's" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="49%" height="130%"/>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img alt="Aiden's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=isyouhyeong&show_icons=true&theme=holi" style="width: 48%;"/>
+  <img alt="Aiden's" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" style="width: 48%;"/>
 </div>
 
 <br clear="both"/>
