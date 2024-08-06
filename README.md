@@ -14,8 +14,8 @@
 
 ### Frontend
 <div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/html.png" alt="html" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/css.png" alt="css" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/HTML5.png" alt="html" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/CSS3.png" alt="css" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/javascript.png" alt="javascript" height="50px"/>
 </div>
 <br><br><br>
@@ -23,7 +23,7 @@
 ### Database
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/oracle.png" alt="oracle" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/Oracle)logo.png" alt="oracle" height="50px"/>
 </div>
 <br><br><br>
 
