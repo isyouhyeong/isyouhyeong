@@ -8,19 +8,22 @@
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring.png" alt="spring" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-security.png" alt="spring security" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
 <br><br><br>
 
 ### Frontend
-<!-- 현재 제공된 아이콘 중 프론트엔드 관련 아이콘이 없습니다. 필요시 추가해주세요. -->
+<div width="100%">
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/html.png" alt="html" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/css.png" alt="css" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/javascript.png" alt="javascript" height="50px"/>
+</div>
+<br><br><br>
 
 ### Database
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/mysql.png" alt="mysql" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/oracle.png" alt="oracle" height="50px"/>
 </div>
 <br><br><br>
 
@@ -31,7 +34,12 @@
 <br><br><br>
 
 ### Frameworks
-<!-- Spring 관련 프레임워크는 이미 Backend 섹션에 포함되어 있습니다. -->
+<div width="100%">
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring.png" alt="spring" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-security.png" alt="spring security" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
+</div>
+<br><br><br>
 
 ### Tools and Platforms 
 <div width="100%">
