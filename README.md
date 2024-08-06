@@ -4,13 +4,8 @@
 - 🧑🏻‍💻 Web Backend Engineer
 - 📢 🇰🇷 Korean
 - 📭 isyouh77@gmail.com
+- About Me:  <a href="https://isyouhyeong.github.io/" target="_blank" rel="noopener noreferrer" class="no-underline">📇</a>
 <!-- - 📚 Physics (Bc.s. at LMU Munich) -->
-
-## 📬Contact-Me
-<div>
-  About Me:  <a href="https://isyouhyeong.github.io/" target="_blank" rel="noopener noreferrer" class="no-underline">📇</a>
-</div>
-
 
 ---
 ## 📚STACK
