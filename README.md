@@ -9,7 +9,7 @@
 ---
 ## 📚STACK
 
-### Backend
+### 👜 Backend
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/java.png" alt="java" height="50px"/>
 <!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->
@@ -18,7 +18,7 @@
 </div>
 <br><br><br>
 
-### Frontend
+### 🖥️ Frontend
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/HTML5.png" alt="html" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/CSS3.png" alt="css" height="50px"/>
@@ -26,7 +26,7 @@
 </div>
 <br><br><br>
 
-### Database
+### 💾 Database
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/mysql.png" alt="mysql" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/oracle.png" alt="oracle" height="50px"/>
