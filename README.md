@@ -11,6 +11,19 @@
   About Me: 📇 <a href="https://isyouhyeong.github.io/" target="_blank" rel="noopener noreferrer" class="no-underline">명함</a>
 </div>
 
+.no-underline {
+    text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+.no-underline:hover,
+.no-underline:focus,
+.no-underline:active {
+    text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
 ---
 ## 📚STACK
 
