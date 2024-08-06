@@ -3,7 +3,7 @@
 ## 안녕하세요 반가워요 👋
 - 🧑🏻‍💻 Web Backend Engineer
 - 📢 🇰🇷 Korean
-- 📭 About Me:  <a href="https://isyouhyeong.github.io/" target="_blank" rel="noopener noreferrer" class="no-underline">📇</a>
+- 📭 About Me:  <a href="https://isyouhyeong.github.io/" target="_blank" rel="noopener noreferrer" class="no-underline">📇</a> ㅋㅋ
 <!-- - 📚 Physics (Bc.s. at LMU Munich) -->
 
 ---
