@@ -9,7 +9,7 @@
 ---
 ## 📚STACK
 
-### 👜 Backend
+### 🛠️ Backend
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/java.png" alt="java" height="50px"/>
 <!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->
@@ -33,14 +33,14 @@
 </div>
 <br><br><br>
 
-### Libraries
+### 🗂️ Libraries
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/jwt.png" alt="jwt" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/pandas.png" alt="pandas" height="50px"/>
 </div>
 <br><br><br>
 
-### Frameworks
+### 🏗️ Frameworks
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-security.png" alt="spring security" height="50px"/>
@@ -49,7 +49,7 @@
 </div>
 <br><br><br>
 
-### Tools and Platforms 
+### 🌐 Tools and Platforms 
 <div width="100%">
 <!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-rds.png" alt="aws rds" height="50px"/> -->
