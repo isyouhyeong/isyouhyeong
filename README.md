@@ -1,35 +1,47 @@
 ### Lee ju hyeong!
 - 🧑🏻‍💻 Web Backend Engineer
 - 📢 🇰🇷 Korean
-- 📭 isyouh77@gmail.com
+- 📭 isyouh77@gmail.com
 <!-- - 📚 Physics (Bc.s. at LMU Munich) -->
 
-### Main Tools
+### Backend
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-security.png" alt="spring security" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/nginx.png" alt="nginx" height="50px"/>
+</div>
+<br><br><br>
+
+### Frontend
+<!-- 현재 제공된 아이콘 중 프론트엔드 관련 아이콘이 없습니다. 필요시 추가해주세요. -->
+
+### Database
+<div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
+</div>
+<br><br><br>
+
+### Libraries
+<div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/jwt.png" alt="jwt" height="50px"/>
 </div>
-<br>
-<br>
-<br>
-### Currently Developing Tools
+<br><br><br>
+
+### Frameworks
+<!-- Spring 관련 프레임워크는 이미 Backend 섹션에 포함되어 있습니다. -->
+
+### Tools and Platforms 
 <div width="100%">
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/docker.png" alt="docker" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/github-actions.png" alt="github actions" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/linux.png" alt="linux" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
-<br>
-<br>
-<br>
-
+<br><br><br>
 
 ### Statistics
 <div>
@@ -54,71 +66,3 @@
 <br/>
 
 -----
-
-
-
-
-<!--
-|Category      | Details                       |
-|:-----------|:--------------------------------|
-| Language   | Java                            |
-| Framework  | Spring Security, Spring Data JPA, Spring Boot |
-| Database   | MySQL, MariaDB                  |
-| Server     | AWS EC2, AWS RDS                |
-| IDE        | IntelliJ, VSCode                |
-| Tool       | Postman                         |
-| UI         | HTML, CSS, Thymeleaf |
-| VCS        | GitHub |
-| Collaboration Tool | Slack, Notion |
-
-#### 🥈 Sub Stack
-| Category   | Details    |
-|:-----------|:-----------|
-| Language   | JavaScript, Dart |
-| Framework  | Flutter           |
-| Library    | React, Axios, jQuery |
-| UI         | Tailwindcss |
-
-
-#### 🥉 Experienced Stack
-| Category   | Details |
-|:-----------|:-----|
-| Language   | PHP, Python, C#, Solidity |
-| Framework  | React-Native, Flask, WordPress |
-| Library    | Beautiful Soup            |
-| Tool       | EXPO                   |
-| IDE/Editor | Atom, Eclipse           |
-| Infrastructure | Docker
-| Server/Hosting    | Firebase, Bluehost |
-| Collaboration Tool | Jira |
-| Data Analysis | Gnuplot |
-<br/>
--->
-
-
-
-<!--
-#### TOOL
-![OS](https://img.shields.io/badge/OS-macOS%20Ventura-lightgrey)
--->
-<!--
-<picture>
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/YdMinS/YdMinS/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YdMinS/YdMinS/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
--->
-
-<!--
-**YdMinS/YdMinS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
