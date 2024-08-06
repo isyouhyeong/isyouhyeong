@@ -7,7 +7,7 @@
 ### Backend
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/>
+<!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
 <br><br><br>
@@ -23,7 +23,7 @@
 ### Database
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/mysql.png" alt="mysql" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/Oracle)logo.png" alt="oracle" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/Oracle_logo.png" alt="oracle" height="50px"/>
 </div>
 <br><br><br>
 
@@ -43,11 +43,12 @@
 
 ### Tools and Platforms 
 <div width="100%">
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
+<!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/aws-rds.png" alt="aws rds" height="50px"/> -->
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/docker.png" alt="docker" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/github-actions.png" alt="github actions" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/linux.png" alt="linux" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/intellij.png" alt="intellij" height="50px"/>
 </div>
 <br><br><br>
 
