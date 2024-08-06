@@ -8,6 +8,7 @@
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/java.png" alt="java" height="50px"/>
 <!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/python.png" alt="python" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
 <br><br><br>
@@ -22,14 +23,15 @@
 
 ### Database
 <div width="100%">
-<!--   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/Oracle_logo.png" alt="oracle" height="50px"/> -->
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/mysql.png" alt="mysql" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/oracle.png" alt="oracle" height="50px"/>
 </div>
 <br><br><br>
 
 ### Libraries
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/jwt.png" alt="jwt" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/pandas.png" alt="pandas" height="50px"/>
 </div>
 <br><br><br>
 
@@ -38,6 +40,7 @@
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring.png" alt="spring" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-security.png" alt="spring security" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/isyouhyeong/isyouhyeong/main/icons/django.png" alt="django" height="50px"/>
 </div>
 <br><br><br>
 
