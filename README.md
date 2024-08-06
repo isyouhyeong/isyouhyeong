@@ -8,7 +8,7 @@
 
 ## 📬Contact-Me
 <div>
-  About Me: 📇 https://isyouhyeong.github.io/
+  About Me: 📇 <a href="https://isyouhyeong.github.io/" target="_blank" >명함</a>
 </div>
 
 ---
