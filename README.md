@@ -64,7 +64,7 @@
 <div>
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=isyouhyeong&show_icons=true&theme=holi" width="49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=isyouh77?v=1" width="42%" height="100%"/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=isyouh77" width="42%" height="100%"/>
 </div>
 <br>
 <div>
